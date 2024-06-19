@@ -1,4 +1,4 @@
-# 2024-NC2-M38-SensitiveContentAnalysis
+# 2024-NC2-M38-SensitiveContentAnalysis
 ## 🎥 Youtube Link
 (추후 만들어진 유튜브 링크 추가)
 
