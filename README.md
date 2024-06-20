@@ -2,7 +2,7 @@
 ## 🎥 Youtube Link
 (추후 만들어진 유튜브 링크 추가)
 
-## 💡 About Augmented Reality
+## 💡 About Sensitive Content Analysis
 > **⚠️ 이미지나 비디오에서 불건전하거나 부적절한 콘텐츠를 감지하는 기능**
 
 **이 기술은 어떻게 활용할 수 있을까요?**
