@@ -47,7 +47,7 @@
 </table>
 
 ## 🛠️ About Code
-#### 민감 정보인지 비동기적으로 확인
+### 민감 정보인지 비동기적으로 확인
 
 ```swift
 enum AnalysisState { // 분석 상태를 구분하기 위한 열거형
@@ -88,7 +88,7 @@ func isSensitive(image: Data?) async {  // 민감 정보인지 비동기적으�
     - 이 함수는 비동기적으로 이미지 데이터를 분석하여 민감 정보를 포함하고 있는지 확인하고, 그 결과에 따라 상태를 업데이트 함
     - 비동기적 처리는 네트워크 호출이나 시간이 오래 걸릴 수 있는 작업에서 UI가 중단되지 않고 원활하게 동작할 수 있도록 도와줌
 
-#### 응답을 바탕으로 블러 적용
+### 응답을 바탕으로 필터링 적용
 ```swift
  case .isSensitive:
                         if let imageData = post.image, let uiImage = UIImage(data: imageData) {
